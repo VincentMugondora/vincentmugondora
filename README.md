@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mugo Plumbing Solutions<br>🌱 I’m currently learning Python and React Native<br>👯 I’m looking to collaborate on React Native Projects<br>🤔 I’m looking for help with Machine Learning and AI
+🔭 I’m currently working on Hustlr<br>🌱 I’m currently learning Machine Learning and AI<br>👯 I’m looking to collaborate on React Native Projects, Machine Learning and AI<br>🤔 I’m looking for help with Machine Learning and AI
 
 
 # 💻 Tech Stack:
